@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Thin CLI wrapping PWABuilder (primary — AAB / MSIX / iOS-project) and optional Tauri for desktop EXE/dmg/AppImage from one Astro build.",
   "type": "module",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "author": "Chirag Singhal <chirag@oriz.in>",
   "homepage": "https://github.com/chirag127/astro-distribute-npm-pkg#readme",
   "repository": {
